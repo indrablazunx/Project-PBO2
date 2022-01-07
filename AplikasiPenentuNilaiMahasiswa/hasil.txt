@@ -1,0 +1,4 @@
+Nama: Indra
+Nilai Rata-rata: 72.5
+Grade: B
+Hasil: LULUS
